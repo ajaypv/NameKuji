@@ -1,0 +1,2 @@
+# NameKuji
+discord bot
